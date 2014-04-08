@@ -1,0 +1,4 @@
+phpsh
+=====
+
+Minimalistic PHP shell
